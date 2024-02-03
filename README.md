@@ -1,7 +1,7 @@
 
-<p align="center">
-  👋 Hi there, I am<a href="https://sites.google.com/view/smitmshah/about?authuser=1" target="_blank" rel="noreferrer"> Smit Shah</a>
-</p>
+<h3 align="center">
+  👋 Hi there, I'm <a href="https://sites.google.com/view/smitmshah/about?authuser=1" target="_blank" rel="noreferrer">Smit Shah</a>
+</h3>
 👀 I’m into Robotics especially Computer Vision, Deep Learning, SLAM and Soft Robotics
 - 🌱 I’m currently a Graduate Student at Worcester Polytechnic Institute(WPI) with major in Robotics
 - 💞️ My past employement was at Invento Robotics for over a year.
