@@ -9,7 +9,7 @@
 🌱 I’m currently a Graduate Student at Worcester Polytechnic Institute(WPI) with major in Robotics
 </h4>
 <h4 align="left">
-💞️ My past employement was at Invento Robotics for over a year.
+:office: My past employement was at Invento Robotics for over a year.
 </h4>
 📫 Connect wit me at  :  <a href="https://www.linkedin.com/in/smit-shah-b11724171/"><img src="https://raw.githubusercontent.com/Smshah30/Smshah30/main/images/linkedin.svg" alt="Smit Shah | LinkedIn" width="21px"/></a>
 
