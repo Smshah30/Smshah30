@@ -11,7 +11,7 @@
 <h4 align="left">
 :office: My past employement was at Invento Robotics for over a year.
 </h4>
-📫 Connect wit me at  :  <a href="https://www.linkedin.com/in/smit-shah-b11724171/"><img src="https://raw.githubusercontent.com/Smshah30/Smshah30/main/images/linkedin.svg" alt="Smit Shah | LinkedIn" width="21px"/></a>
+📫 Connect with me at  :  <a href="https://www.linkedin.com/in/smit-shah-b11724171/"><img src="https://raw.githubusercontent.com/Smshah30/Smshah30/main/images/linkedin.svg" alt="Smit Shah | LinkedIn" width="21px"/></a>
 
 <h3></h3>
 <!--<a href="https://mail.google.com/a/smitshah30999.gmail/#inbox/"><img src="https://raw.githubusercontent.com/Smshah30/Smshah30/main/images/icons8-gmail.svg" alt="Smit Shah | LinkedIn" width="21px"/></a> --> 
