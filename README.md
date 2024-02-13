@@ -8,9 +8,9 @@
 <h4 align="left">
 🌱 I’m currently a Graduate Student at Worcester Polytechnic Institute(WPI) with major in Robotics
 </h4>
-<h4 align="left">
+<!-- <h4 align="left">
 :office: My past employement was at Invento Robotics for over a year.
-</h4>
+</h4> -->
 📫 Connect with me at  :  <a href="https://www.linkedin.com/in/smit-shah-b11724171/"><img src="https://raw.githubusercontent.com/Smshah30/Smshah30/main/images/linkedin.svg" alt="Smit Shah | LinkedIn" width="21px"/></a>
 
 <h3></h3>
