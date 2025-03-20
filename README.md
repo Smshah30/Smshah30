@@ -3,7 +3,7 @@
   👋 Hi there, I'm <a href="https://sites.google.com/view/smitmshah/about?authuser=1" target="_blank" rel="noreferrer">Smit Shah</a>
 </h3>
 <h4 align="left">
-  👀 My areas of interest are Computer Vision, Deep Learning, Controls, SLAM and Soft Robotics
+  👀 My areas of interest are AI, Computer Vision, Deep Learning, SLAM and Soft Robotics
 </h4>
 <h4 align="left">
 🌱 I’m currently a Graduate Student at Worcester Polytechnic Institute(WPI) with major in Robotics
